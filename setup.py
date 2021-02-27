@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="example-pkg-YOUR-USERNAME-HERE", # Replace with your own username
     version="0.0.1",
-    author="osman",
+    author="osmancuet09",
     author_email="osmangoni14@gmail.com",
-    description="This is a simple project for date convertion",
+    description="This is a simple project for date conversion",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/osmancuet09/english-to-bangla-date.git",
